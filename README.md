@@ -16,5 +16,5 @@ pois devido a esse fato seria necessário gastar uma quantia em dinheiro para o 
 [Nosso pitch pode ser encontrado aqui](https://drive.google.com/file/d/0B8_ERpOaRjJcLWdjdFNDSTJCNnUzM1h6WWE4MWh6dEhscktz/view?ts=57f07a10)
 
 # A equipe 
- Esse trabalho está sendo projetado e desenvolvido por Rodolfo Ribeiro e Victor Gonçalves Valfré
+ Esse trabalho está sendo projetado e desenvolvido por Rodolfo Ribeiro e Victor Gonçalves Valfré.
  
